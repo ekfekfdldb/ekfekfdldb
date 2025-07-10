@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Jaeyeong's+GitHub!👋)](https://git.io/typing-svg)
 
 ## ⭐ About Me 
-- 함께 고민하고 성장하는 개발을 지향합니다. 🤝
-- 소통을 통해 더 나은 방향을 찾고, 모두가 즐겁게 일할 수 있는 환경을 꿈꿉니다. 🌈✨
+함께 고민하고 성장하는 개발을 지향합니다. 🤝 <br>
+소통을 통해 더 나은 방향을 찾고, 모두가 즐겁게 일할 수 있는 환경을 꿈꿉니다. 🌈✨
 
 ---
 
