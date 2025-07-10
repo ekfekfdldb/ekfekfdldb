@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20jeayeong's%20GitHub!&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&fontAlignY=40&fontAlign=10&height=250)
 
 ## ⭐ About Me 
 개발은 혼자 하는 프로그래밍이 아니라 모두가 함께 만드는 과정이라고 믿습니다. 🤝 대화와 협업을 즐기며 비난이 아닌 건설적인 비판은 언제든 환영해요. 💬 모두가 조금 더 행복해질 수 있는 개발을 꿈꿉니다. 🌈✨
