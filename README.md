@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ## ⭐ About Me / Kim Jae Yeong
 개발은 혼자 하는 프로그래밍이 아니라 모두가 함께 만드는 과정이라고 믿습니다. 🤝 대화와 협업을 즐기며 비난이 아닌 건설적인 비판은 언제든 환영해요. 💬 모두가 조금 더 행복해질 수 있는 개발을 꿈꿉니다. 🌈✨
 
@@ -27,6 +29,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </p>
+
 ---
 
 ## 📊 GitHub Stats
