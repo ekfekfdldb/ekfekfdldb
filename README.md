@@ -32,5 +32,3 @@
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ekfekfdldb&show_icons=true&hide_border=true&title_color=6994CD&icon_color=6994CD&bg_color=00000000&cache_seconds=3600"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekfekfdldb&layout=compact&hide_border=true&title_color=6994CD&bg_color=00000000"/>
 </p>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&height=80&section=footer)
